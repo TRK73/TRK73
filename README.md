@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning typescript.<br>
+🌱 I’m currently learning Rust.<br>
 
 
 # 💻 Tech Stack:
